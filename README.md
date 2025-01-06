@@ -1,3 +1,10 @@
+![foodorderingapp-home](https://github.com/user-attachments/assets/32dde0c9-a89c-4a35-ae75-6cf8da62abd4)
+![list](https://github.com/user-attachments/assets/a6d7d9f7-c6c7-4f63-a18d-27c9aa496446)
+![listofitem](https://github.com/user-attachments/assets/ecb58835-7d24-4688-a30f-7db9b718f5b3)
+
+
+
+
 <div align="center">
   <img src="https://foodbazaarr.netlify.app/Logo.6c3b39eb.png" style="width:120px"></img>
   <h1><b>🚀Food Bazaar | Your Foody Hub</b></h3>
